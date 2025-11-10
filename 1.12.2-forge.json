@@ -1,0 +1,29 @@
+{
+    "id": "1.12.2-forge",
+    "inheritsFrom": "1.12.2",
+    "type": "release",
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "arguments": {
+        "game": [
+            "--assetIndex",
+            "1.12",
+            "--assetsDir",
+            "${assets_root}"
+        ],
+        "jvm": [
+            "-Dforge.logging.console.level=debug",
+            "-Dforge.logging.markers=SCAN,REGISTRIES,REGISTRYDUMP"
+        ]
+    },
+    "libraries": [
+        {
+            "name": "net.minecraftforge:forge:1.12.2-14.23.5.2860"
+        },
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        }
+    ],
+    "releaseTime": "2017-09-18T00:00:00+00:00",
+    "time": "2017-09-18T00:00:00+00:00",
+    "clientVersion": "1.12.2"
+}
