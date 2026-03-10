@@ -1,0 +1,3 @@
+name: JEI (Just Enough Items)
+icon: https://raw.githubusercontent.com/fepttank-bit/MTLauncherFiles/main/icons/jei.png
+download: https://raw.githubusercontent.com/fepttank-bit/MTLauncherFiles/main/mods/jei.jar
