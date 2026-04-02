@@ -1,0 +1,2 @@
+jei-1.21.1-forge-19.27.0.340
+https://raw.githubusercontent.com/fepttank-bit/MTLauncherFiles/main/modlist/jei-1.21.1-forge-19.27.0.340.jar
